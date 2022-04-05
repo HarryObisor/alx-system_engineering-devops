@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /action | grep ^- | wc -l
+ls -l /3-paths | grep ^- | wc -l
