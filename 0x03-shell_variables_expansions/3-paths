@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /3-paths
+$PATH | tr -s ":" "\n" | wc -l
